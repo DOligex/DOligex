@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on my [Javascript Learning](https://github.com/DOligex/javascriptAlgorithmsAndDataStructures)
 - 🤙 Old project [La Fumainerie](https://www.lafumainerie.com/accueil) / [TAMARA](https://doligex.github.io/Photograph/)
-- 😰 Hackathon project [Hackloween](https://doligex.github.io/Hackloween/home)
+<!-- - 😰 Hackathon project [Hackloween](https://doligex.github.io/Hackloween/home) -->
 - 🤯 Learning project [Pokemons](https://doligex-ng9-udemy-pokemon-app.firebaseapp.com/login)
 - 🔥 Training area [Angular Quest](https://doligex.github.io/revision/)
 
