@@ -47,7 +47,7 @@
 </p>
 
 <p align="center">
-<a href="https://linkedin.com/in/odarbonville" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="odarbonville" height="20" width="20" /></a>
+<a href="https://www.linkedin.com/in/olivierdarbonville" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="odarbonville" height="20" width="20" /></a>
 <a href="https://codepen.io/olivier d" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg" alt="olivier d" height="20" width="20" /></a>
 <a href="https://stackoverflow.com/users/14022269" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="14022269" height="20" width="20" /></a>
 <a href="https://medium.com/@odarbonville" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="@odarbonville" height="20" width="20" /></a>
