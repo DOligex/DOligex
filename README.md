@@ -48,7 +48,7 @@
 
 <p align="center">
 <a href="https://www.linkedin.com/in/olivierdarbonville" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="odarbonville" height="20" width="20" /></a>
-<a href="https://codepen.io/olivier d" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg" alt="olivier d" height="20" width="20" /></a>
+<a href="https://codepen.io/Nounours" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg" alt="olivier d" height="20" width="20" /></a>
 <a href="https://stackoverflow.com/users/14022269" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="14022269" height="20" width="20" /></a>
 <a href="https://medium.com/@odarbonville" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="@odarbonville" height="20" width="20" /></a>
 <a href="https://www.codewars.com/users/DOligex" target="blank"><img align="center" src="https://raw.githubusercontent.com/DOligex/devIcons/c7399b7aa0823661e4eedf4879caf61e41680c43/codewars.svg?token=AMIZFZUOBEK64LPTZISXGAS7G35S2" alt="DOligex" height="20" width="20" /></a>
