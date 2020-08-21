@@ -1,5 +1,5 @@
 <h1 align="center">Hi there 👋</h1>
-<h3 align="center">Fullstack developer</h3>
+<h3 align="center">Full Stack developer</h3>
 <p align="center">
 <img src="https://devicons.github.io/devicon/devicon.git/icons/javascript/javascript-original.svg" title="Javascript" alt="Javascript logo" width="30" height="30"/> 
 <img src="https://devicons.github.io/devicon/devicon.git/icons/angularjs/angularjs-original.svg" title="Angular" alt="Angularjs logo" width="30" height="30"/> 
