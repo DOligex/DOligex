@@ -38,6 +38,7 @@
 <img src="https://devicons.github.io/devicon/devicon.git/icons/linux/linux-original.svg" title="Linux" alt="Linux logo" width="20" height="20"/> 
 <img src="https://raw.githubusercontent.com/devicons/devicon/0d6c64dbbf311879f7d563bfc3ccf559f9ed111c/icons/windows8/windows8-original.svg" title="Windows" alt="Windows logo" width="20" height="20"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/0d6c64dbbf311879f7d563bfc3ccf559f9ed111c/icons/ssh/ssh-original.svg" title="ssh" alt="ssh logo" width="20" height="20"/>
+<img src="https://raw.githubusercontent.com/DOligex/devIcons/306c012206b18ecb891fcba8bf5ba8fe8c644c47/firebase.svg" title="Firebase" alt="Firebase logo" width="20" height="20"/>
 <img src="https://raw.githubusercontent.com/PKief/vscode-material-icon-theme/36c6d3ef63c06fe942b62da9303b559d8b4535b3/icons/vscode.svg" title="VSCode" alt="VSCode logo" width="20" height="20"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/0d6c64dbbf311879f7d563bfc3ccf559f9ed111c/icons/slack/slack-original.svg" title="Slack" alt="Slack logo" width="20" height="20"/>
 </p>
