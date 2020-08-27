@@ -9,7 +9,9 @@
 - 💻 I’m currently working on [Unicorn Library 🦄](https://github.com/DOligex/LicorneBibliotheque)
 - ✅ Old project [La Fumainerie 🤙](https://www.lafumainerie.com/accueil) / [TAMARA](https://doligex.github.io/Photograph/)
 
-- 🧐 Learning project [Pokemons](https://doligex-ng9-udemy-pokemon-app.firebaseapp.com/login)
+- 🧐 Learning projects : 
+    - [Pokemons V1.0 Firebase Hosting](https://doligex-ng9-udemy-pokemon-app.firebaseapp.com/login)
+    - [Pokemons V2.0 Github Hosting](https://doligex.github.io/angular-pokemon-app/login)
 
 - 🔥 I’m currently learning:
     - **Javascript (Javascript Algorithms and Data Structures Certification) freeCodeCamp**
