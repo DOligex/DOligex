@@ -6,7 +6,6 @@
 <img src="https://raw.githubusercontent.com/devicons/devicon/0d6c64dbbf311879f7d563bfc3ccf559f9ed111c/icons/nodejs/nodejs-original.svg" title="NodeJS" alt="nodejs logo" width="30" height="30"/>
 </p>
 
-- 💻 I’m currently working on [Unicorn Library 🦄](https://github.com/DOligex/LicorneBibliotheque)
 - ✅ Old project [La Fumainerie 🤙](https://www.lafumainerie.com/accueil) / [TAMARA](https://doligex.github.io/Photograph/)
 
 - 🧐 Learning projects : 
@@ -15,7 +14,6 @@
 
 - 🔥 I’m currently learning:
     - **Javascript (Javascript Algorithms and Data Structures Certification) freeCodeCamp**
-    - **Javascript (ultimate training) Udemy course**
 
 - 📫 How to reach me **odarbonville@gmail.com**
 
