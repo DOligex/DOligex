@@ -2,7 +2,7 @@
 <h3 align="center">Full Stack developer</h3>
 <p align="center">
 <img src="https://devicons.github.io/devicon/devicon.git/icons/javascript/javascript-original.svg" title="Javascript" alt="Javascript logo" width="30" height="30"/> 
-<img src="https://devicons.github.io/devicon/devicon.git/icons/angularjs/angularjs-original.svg" title="Angular" alt="Angularjs logo" width="30" height="30"/> 
+<img src="https://github.com/DOligex/devicon/blob/master/icons/angularjs/angularjs-original.svg" title="Angular" alt="Angularjs logo" width="30" height="30"/> 
 <img src="https://raw.githubusercontent.com/devicons/devicon/0d6c64dbbf311879f7d563bfc3ccf559f9ed111c/icons/nodejs/nodejs-original.svg" title="NodeJS" alt="nodejs logo" width="30" height="30"/>
 </p>
 
