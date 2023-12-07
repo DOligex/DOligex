@@ -6,11 +6,6 @@
 <img src="https://raw.githubusercontent.com/devicons/devicon/0d6c64dbbf311879f7d563bfc3ccf559f9ed111c/icons/nodejs/nodejs-original.svg" title="NodeJS" alt="nodejs logo" width="30" height="30"/>
 </p>
 
-- ✅ Old project [La Fumainerie 🤙](https://www.lafumainerie.com/accueil) / [TAMARA](https://doligex.github.io/Photograph/)
-
-- 🧐 Learning projects : 
-    - [Pokemons V1.0 Firebase Hosting](https://doligex-ng9-udemy-pokemon-app.firebaseapp.com/login)
-    - [Pokemons V2.0 Github Hosting](https://doligex.github.io/angular-pokemon-app/login)
 
 
 <h4 align="center">Work scope</h4>
